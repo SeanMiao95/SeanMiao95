@@ -1,0 +1,17 @@
+body{
+    background-color: hotpink;
+}
+
+.bigtable{
+    margin-top: 10%;
+}
+
+.smalltable{
+    border: 15px solid #ffffff;
+}
+
+p{
+    font-size: 35px;
+    color: #ffffff;
+    margin-right: 35%;
+}
